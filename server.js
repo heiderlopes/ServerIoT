@@ -72,9 +72,9 @@ board.on("ready", function() {
       if(notificou === false) {
 
         var message = {
-          //to: 'f1P2QLhtHCQ:APA91bFLL4wNbYbphPpRQmj2i_52LfqJx88HSMWuFHTHQr-plPW31-hx16liHyHRlUi5MCqG133x0tgFgsyJyNfeJoMdoBBXglhJpmPBLWazKHOWFXuohYCDHys2VxQ71ycrucCKaR_p', // required
+          //to: '', // required
           //Emulador Genymotion Android
-          //to: 'cpEcI2oZcFc:APA91bHBfKHkgxEqEsqnTi6MacVWv3hJ17Ea1JZq9A18eRxQlnbP4NHUAkH8Agaueofk24Co4JnCVoa2wccUpppSWGWXexIuau2Qp7uXw1qkSIMb2z3GOajTlL4fzhb_uKzfm3mWuBYA',
+          //to: '',
           to: '',
           //collapse_key: 'your_collapse_key', 
           data: {
